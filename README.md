@@ -1,2 +1,12 @@
-# CRUD-userManagementSystem
-👋 Welcome to the User Management System repository!  📁 This repository contains the source code for a simple user management system developed by Harsh Dager.  🔧 Features include:  CRUD operations for managing customer records Easy-to-use interface for adding, updating, and deleting records Timestamps for tracking the last update of each record
+# User Management System
+
+This User Management System is a web application developed with Express.js and EJS templating engine. It allows users to manage customer records with basic CRUD (Create, Read, Update, Delete) operations.
+
+## Features
+
+- **CRUD Operations**: Easily add, update, and delete customer records.
+- **Express Sessions**: Utilizes Express sessions for managing user sessions and authentication.
+- **Flash Messages**: Provides flash messages for displaying notifications to users.
+- **Static Files**: Serves static files from the `public` directory.
+- **404 Handling**: Custom 404 page for handling invalid routes.
+
