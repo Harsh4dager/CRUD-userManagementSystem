@@ -10,3 +10,9 @@ This User Management System is a web application developed with Express.js and E
 - **Static Files**: Serves static files from the `public` directory.
 - **404 Handling**: Custom 404 page for handling invalid routes.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone  https://github.com/Harsh4dager/CRUD-userManagementSystem.git
